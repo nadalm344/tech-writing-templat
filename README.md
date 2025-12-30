@@ -1,4 +1,4 @@
-# 📝 Tech Writing Templates Library
+# 📝 Tech Writing Templates Library  📝
 
 > **Plantillas profesionales de documentación técnica listas para usar**  
 > Por María Nadal - Technical Writer
